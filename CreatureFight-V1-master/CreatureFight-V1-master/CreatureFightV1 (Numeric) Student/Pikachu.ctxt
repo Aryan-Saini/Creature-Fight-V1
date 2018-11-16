@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pikachu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=Pikachu(greenfoot.World)
+comment1.text=\ \r\n\ Pikachu\ is\ the\ constructor\ for\ Pikachu\ type\ objects\ \r\n\ \r\n\ @param\ world\ holsds\ a\ world\ object\r\n\ @return\ nothing\ is\ returned\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Charmander\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=3
